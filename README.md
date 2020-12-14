@@ -1,8 +1,7 @@
 # Tarea2_FOR_LOOP
 
-Paula MuÒoz - Desarrollo de Tarea 2 Big Data
+Paula Mu√±oz - Desarrollo de Tarea 2 Big Data
 
-Profesores:
-Diana LÛpez
-Amaru Fern·ndez
+Profesores:Amaru Fern√°ndez y Diana L√≥pez.
+
  
